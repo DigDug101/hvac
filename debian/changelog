@@ -1,0 +1,5 @@
+hvac (0.2.17-1) trusty; urgency=low
+
+  * source package automatically created by stdeb 0.6.0+git
+
+ -- Neil Williams <neil@reddit.com>  Thu, 06 Apr 2017 21:44:44 +0000
